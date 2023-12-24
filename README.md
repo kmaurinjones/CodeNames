@@ -2,7 +2,7 @@
 
 "Codenames: Agent AI" is a unique, single-player version of the popular Codenames game, enhanced with artificial intelligence. In this Streamlit web app, you, the player, provide hints and select cards to be guessed, while the AI, powered by Google's Universal Sentence Encoder, makes guesses based on the top-ranked similar cards.
 
-Steamlit App link: [agentai.streamlit.app]
+Steamlit App link: https://agentai.streamlit.app
 
 ## Game Instructions
 
@@ -27,14 +27,17 @@ Here's how you play:
 To run "Codenames: Agent AI" locally, follow these steps:
 
 1. **Clone the Repository**:
-git clone [https://github.com/kmaurinjones/CodeNames]
+
+$ git clone https://github.com/kmaurinjones/CodeNames
 
 2. **Install Requirements**:
 Navigate to the cloned repository and install the required packages using:
+
 $ pip install -r requirements.txt
 
 3. **Run the App**:
 Inside the repository, start the Streamlit app by running:
+
 $ streamlit run app.py
 
 ## License
