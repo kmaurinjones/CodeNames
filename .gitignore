@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# app.py WIPs
+app2.py
+
 # Distribution / packaging
 .Python
 build/
