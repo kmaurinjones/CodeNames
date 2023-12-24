@@ -29,18 +29,13 @@ To run "Codenames: Agent AI" locally, follow these steps:
 1. **Clone the Repository**:
 git clone [https://github.com/kmaurinjones/CodeNames]
 
-
 2. **Install Requirements**:
 Navigate to the cloned repository and install the required packages using:
 $ pip install -r requirements.txt
 
-
 3. **Run the App**:
 Inside the repository, start the Streamlit app by running:
-$ streamlit run your_script_name.py
-
-
-Replace `your_script_name.py` with the actual name of the Python script for your Streamlit app.
+$ streamlit run app.py
 
 ## License
 
